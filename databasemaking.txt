@@ -1,0 +1,21 @@
++admin
+   -id
+   -username
+   -password
++ student
+  -id
+   -roll no
+   -name
+   -city
+   -parents contact
+   -standard
+   -image
+   
+
+--features
+-->login,logout for admin
+-->on homepage show student details by entering roll no
+--> student details
+  	--add new student detils
+	-- update existing student details
+	-- delete student details
